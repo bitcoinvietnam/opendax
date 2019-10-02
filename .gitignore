@@ -12,6 +12,7 @@ config/peatio/seed/*
 !config/peatio/seed/.gitkeep
 config/applogic/*
 !config/applogic/.gitkeep
+.idea
 vendor/
 !vendor/.gitkeep
 .terraform/
